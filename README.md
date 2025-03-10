@@ -1,4 +1,4 @@
-# Advanced Data Visualizer
+# Data Visualizer
 
 A powerful and flexible data visualization tool built in Python for analyzing and visualizing complex datasets. This tool provides advanced features for pattern recognition, anomaly detection, and temporal analysis.
 
